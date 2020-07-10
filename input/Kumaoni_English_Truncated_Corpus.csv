@@ -1,0 +1,205 @@
+﻿source,english_sentence,kumaoni_sentence
+ted,Zero ,शून्य 
+ted,One ,एक 
+ted,Two ,दो 
+ted,Three,तीन 
+ted,Four ,चार 
+ted,Five ,पाँच 
+ted,Six ,छः 
+ted,Seven ,सात 
+ted,Eight ,आठ 
+ted,Nine ,नौ 
+ted,Ten ,दस 
+ted,Eleven (11),ग्यारह (११)
+ted,Twelve (12),बारह (१२)
+ted,Thirteen (13),तेरह (१३)
+ted,Fourteen (14),चौदह (१४)
+ted,Fifteen (15),पंद्रह (१५)
+ted,Sixteen (16),सोलह (१६)
+ted,Seventeen (17),सत्रह (१७)
+ted,Eighteen (18),अट्ठारह (१८)
+ted,Nineteen (19),उन्नीस (१९)
+ted,Twenty (20),बीस (२०)
+ted,Twenty one (21),इक्कीस (२१)
+ted,Twenty two (22),बाईस (२२)
+ted,Twenty three (23),तेईस (२३)
+ted,Twenty four (24),चौबिस(२४)
+ted,Twenty five (25),पच्चीस(२५)
+ted,Twenty six (26),छब्बीस(२६)
+ted,Twenty seven (27),सत्ताईस (२७)
+ted,Twenty eight (28),अट्ठाईस (२८)
+ted,Twenty nine (29),उनतीस (२९)
+ted,Thirty (30),तीस (३०)
+ted,Thirty one (31),इकतीस (३१)
+ted,Thirty two (32),बत्तीस (३२)
+ted,Thirty three (33),तैंतीस (३३)
+ted,Thirty four (34),चौंतीस (३४)
+ted,Thirty five (35),पैंतीस (३५)
+ted,Thirty six (36),छत्तीस(३६)
+ted,Thirty seven (37),सैंतीस (३७)
+ted,Thirty eight (38),अड़तीस (३८)
+ted,Thirty nine (39),उनतालीस (३९)
+ted,Forty (40),चालीस (४०)
+ted,Forty one (41),इकतालीस (४१)
+ted,Forty two (42),बयालीस (४२)
+ted,Forty three (43),तैंतालीस (४३)
+ted,Forty four (44),चौंतालीस(४४)
+ted,Forty five (45),पैंतालीस (४५)
+ted,Forty six (46),छियालीस(४६)
+ted,Forty seven (47),सैंतालीस (४७)
+ted,Forty eight (48),अड़तालीस (४८)
+ted,Forty nine (49),उनचास​(४९)
+ted,Fifty (50),पचास (५०)
+ted,Fifty one (51),इक्यावन​(५१)
+ted,Fifty two (52),बावन (५२)
+ted,Fifty three (53),तिरेपन (५३)
+ted,Fifty four (54),चौवन​(५४)
+ted,Fifty five (55),पचपन (५५)
+ted,Fifty six (56),छप्पन (५६)
+ted,Fifty seven (57),सत्तावन (५७)
+ted,Fifty eight (58),अट्ठावन (५८)
+ted,Fifty nine (59),उनसठ (५९)
+ted,Sixty (60),साठ (६०)
+ted,Sixty one (61),इकसठ (६१)
+ted,Sixty two (62),बासठ (६२)
+ted,Sixty three (63),तिरेसठ (६३)
+ted,Sixty four (64),चौंसठ (६४)
+ted,Sixty five (65),पैंसठ (६५)
+ted,Sixty six (66),छयासठ​(६६)
+ted,Sixty seven (67),सरसठ​ (६७)
+ted,Sixty eight (68),अड़सठ (६८)
+ted,Sixty nine (69),उनहत्तर (६९)
+ted,Seventy (70),सत्तर (७०)
+ted,Seventy one (71),इकहत्तर (७१)
+ted,Seventy two (72),बहत्तर (७२)
+ted,Seventy three (73),तिहत्तर (७३)
+ted,Seventy four (74),चौहत्तर (७४)
+ted,Seventy five (75),पचहत्तर (७५)
+ted,Seventy six (76),छिहत्तर (७६)
+ted,Seventy seven (77),सतहत्तर (७७)
+ted,Seventy eight (78),अठहत्तर (७८)
+ted,Seventy nine (79),उन्यासी (७९)
+ted,Eighty (80),अस्सी (८०)
+ted,Eighty one (81),इक्यासी (८१)
+ted,Eighty two (82),बयासी (८२)
+ted,Eighty three (83),तिरासी (८३)
+ted,Eighty four (84),चौरासी (८४)
+ted,Eighty five (85),पचासी (८५)
+ted,Eighty six (86),छियासी (८६)
+ted,Eighty seven (87),सत्तासी (८७)
+ted,Eighty eight (88),अठासी (८८)
+ted,Eighty nine (89),नवासी (८९)
+ted,Ninety (90),नब्बे (९०)
+ted,Ninety one (91),इक्यानवे (९१)
+ted,Ninety two (92),बानवे (९२)
+ted,Ninety three (93),तिरानवे (९३)
+ted,Ninety four (94),चौरानवे (९४)
+ted,Ninety five (95),पचानवे (९५)
+ted,Ninety six (96),छियानवे (९६)
+ted,Ninety seven ,सत्तानवे (९७)
+ted,Ninety eight ,अट्ठानवे (९८)
+ted,Ninety nine ,निन्यानवे (९९)
+ted,One hundred,(एक) सौ (१००)
+ted,First,पहला/प्रथम (१ला/१म)
+ted,Second,दूसरा/द्वितीय (२रा/२य)
+ted,Third,तीसरा/तृतीय (३रा/३य)
+ted,Fourth ,चौथा/चतुर्थ (४था/४र्थ)
+ted,Fifth,पांचवां/पंचम (५वां/५म)
+ted,Sixth ,छठा/षष्ठ (६ठा/६ष्ठ)
+ted,Seventh ,सातवां/सप्तम (७वां/७म)
+ted,Eighth ,आठवां/अष्टम (८वां/८म)
+ted,Ninth ,नौवां/नवम (९वां/९म)
+ted,Tenth ,दसवां/दशम (१०वां/१०म)
+ted,Fourteenth ,चौदहवां (१४वां)
+ted,Seventy eighth ,अठहत्तरवां (७८वां)
+ted,Hundredth ,सौवां (१००वां)
+ted,I,Mi
+ted,He,Wou
+ted,She,Wu
+ted,You,Tu
+ted,It,Ya
+ted,This,Yo
+ted,That,Wo
+ted,A,A
+ted,Come(You come),Aoh
+ted,Came,Aai
+ted,Will come,Uul
+ted,Open,Khulul
+ted,Opened,Khol halo
+ted,Will open,Kholul
+ted,Sit,Baithnou
+ted,Walk,hituul
+ted,Eat,Khan
+ted,Drink,Pihnn
+ted,Win,Jitan
+ted,Go,janai
+ted,Run,Bhagun
+ted,He is eating an apple.,Wu saiba khanu laag rau.
+ted,He ate an apple.,Ull saib khei haaali.
+ted,I saw the film last week.,Mi/meyl pichadi hafta picture dekhi.
+ted,She came by bus yesterday.,Wu byal bus/gaadil bati aai.
+ted,They went to the mosque.,Wou masjid gyein.
+ted,He slept the whole night.,Wu sarii raat sito.
+ted,He wrote well in the examination.,ull pariksha me bhal likhoh.
+ted,He has eaten.,Ull khaiy halo.
+ted,He had eaten.,Wu khaiy goh.
+ted,He had gone.,Wu neigoh.
+ted,He had come.,Wu aeigoh.
+ted,He will eat.,Wu ab khaal.
+ted,He will go.,Wu jall.
+ted,He will come.,Wu aall.
+ted,What is your name?,Teyr nam key chu?
+ted,What,Ke
+ted,Your,tumhar
+ted,Name,Nam
+ted,What did you do?,Tumul kei karouh/tumul key kar rakhoh?
+ted,What should I do?,Miki ke karun chann?
+ted,What can I do?,Mai key kar sakoon?
+ted,What are the questions?,Prasan/sawaal key chin?
+ted,What were the questions?,Key sawaal chi?
+ted,What is written in the letter?,Chitti me key likh rakho?
+ted,What you had been told?,Tumun key batan rakchii?
+ted,What will be the answer?,Uttar kei houl?
+ted,Why did you come?,Tum kile aachaa?
+ted,Why did you sleep?,Tum kile sitchaa?
+ted,Why did you tell him to go?,Tumhul ukki jaan lizi kile bolo?
+ted,Why did he bring the bag?,Wu jhoval liber kile aa?
+ted,Why did she pay the money?,Uul dabal kiley dii?
+ted,Why did they sit there?,Uu wahan kiley baithi?
+ted,Why do you drive the car?,Tull gadi kile chaley?
+ted,Why are they late for the meeting?,Wu meeting lizi der kile krnai?
+ted,How did you come?,Tum kassi aachaa?
+ted,How did you sleep?,Tum kassi sitt chaa?
+ted,How did you drive?,Tull gadi kasi chalaei?
+ted,How did you write?,Tull/tumhul kasi likho?
+ted,How many apples are there in my hand?,Meyr hatham kattu saibe chin?
+ted,How many did you take?,Tumul kattu li?
+ted,How much did he pay you?,Ull tumunki kathu paisa/rupei dien?
+ted,How much distance to go?,Kathuh dur jan chu?
+ted,How was the journey yesterday?,Beyi yatra kas chii?
+ted,Which way did you come?,Tum ko wal baat aachaa?
+ted,Which is your favourite colour?,Teyr manpasand rang key chu?
+ted,In which room did you sleep?,Tum koh waal kamra me sitchaa?
+ted,Which story did you tell?,Tumhul ku wall katha/kahani sunei?
+ted,Which is the sweetest fruit?,Sabse mitha fal kochuu?
+ted,Which is the best newspaper in Hindi?,Ku wal akhbar hindi m sabsey bhal chuu?
+ted,Which Indian state has the largest population?,Ku wal rajya  janshankyan sabsey jad chi?
+ted,Where did you come from?,Tu khan batii aacha?
+ted,Where did you sleep?,Tum khan sith chaa?
+ted,Where should I go?,Miki khan jana chain?
+ted,Whom should I contact?,Mei kahu sampark krun?
+ted,Is it a book?,Key yo kitaab chu?
+ted,It is a book.,Yo ek kitaab chu.
+ted,Is it the answer?,Key yo uttar chu?
+ted,It is the answer.,Yo uttar chu.
+ted,Will you come with me?,Key tu mer dagad aalei?
+ted,I shall come with you.,Main tumhr saath/dagad oul.
+ted,Can you give me your pen?,Ke tu mekei apun pen di sakchein?
+ted,"Yes, of course.","Haan, kile ney."
+ted,Do you love me?,Ke tu mehu/meki pyar karchei?
+ted,"Yes, I love you.","Ha, mei tuhu pyar karun."
+ted,Can you lift the box?,Ke tu dabba utha sakchey?
+ted,Can you write the exam?,Ke Tu pariksha likh sakchey?
+ted,Did you have lunch?,Tuul khanha khei haalo?
+ted,How are you?,Tu kas chai?/ Kas cha tum?
+ted,I am fine.,Main bhal chun/thik chu.
